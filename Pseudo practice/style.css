@@ -1,0 +1,14 @@
+body{
+    display: block;
+}
+
+div{
+    height: 200px;
+    width: 300px;
+    border: 1px solid black;
+    margin: auto;
+  
+}
+.hov:hover{
+    background-color: orangered;
+}

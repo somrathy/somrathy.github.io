@@ -1,0 +1,39 @@
+.bluecontainer{
+    width: 900px;
+    height: 100px;
+    border: 1px solid blue;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 20px;
+
+}
+.bluecontainer div{
+    
+    height: 80px;
+    width: 80px;
+    background-color: blue;
+
+}
+.orangecontainer{
+    background-color: orangered;
+    width: 900px;
+    height: 100px;
+    border: 1px solid blue;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    
+
+}
+.orangecontainer div{
+    
+    height: 80px;
+    width: 80px;
+    background-color: purple;
+
+}

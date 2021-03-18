@@ -1,0 +1,15 @@
+p { 
+    color: blue;
+    background-color: yellow;
+
+}
+.container. .asteroid .b329 .big {
+    color: blue;
+    font-weight: bold;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    border: solid 1px green;
+}  
